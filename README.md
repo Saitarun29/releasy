@@ -50,7 +50,14 @@
 
 ## 📸 Screenshots
 
-> Screenshots coming soon. Once deployed, add images here to showcase the UI.
+| | |
+|---|---|
+| **Hero Section** — Landing page hero with gradient text, CTA buttons, and asset preview grid | **How It Works (Visual)** — Workflow diagram showing the three-step process |
+| ![Hero Section](./public/screenshots/hero-section.png) | ![How It Works Visual](./public/screenshots/how-it-works.png) |
+| **How It Works** — Step-by-step workflow: Connect → Analyze → Generate | **Features** — 12 feature cards showcasing all generated assets |
+| ![How It Works](./public/screenshots/how-it-work.png) | ![Features](./public/screenshots/features.png) |
+| **Working Dashboard** — Main app with repository form, commit analysis, and AI-generated assets | |
+| ![Working Dashboard](./public/screenshots/working-dashboard.png) | |
 
 ---
 
