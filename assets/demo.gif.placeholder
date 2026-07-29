@@ -1,0 +1,5 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0a0a0a"/>
+  <text x="600" y="315" text-anchor="middle" font-family="system-ui,sans-serif" font-size="36" fill="#71717a">Demo GIF placeholder</text>
+  <text x="600" y="360" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" fill="#6366f1">Replace with screen recording of the full workflow</text>
+</svg>

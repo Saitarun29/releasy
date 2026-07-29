@@ -1,0 +1,15 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0a0a0a"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#grad)" opacity="0.15"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <text x="600" y="240" text-anchor="middle" font-family="system-ui,sans-serif" font-size="72" font-weight="bold" fill="#ededed">Releasy</text>
+  <text x="600" y="320" text-anchor="middle" font-family="system-ui,sans-serif" font-size="28" fill="#a1a1aa">Write launch content that sounds like you</text>
+  <text x="600" y="370" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" fill="#71717a">AI-powered launch kit generator for GitHub releases</text>
+  <rect x="400" y="420" width="400" height="60" rx="12" fill="none" stroke="#6366f1" stroke-width="2" opacity="0.3"/>
+  <text x="600" y="458" text-anchor="middle" font-family="system-ui,sans-serif" font-size="18" fill="#6366f1">Paste a repo → Get 6 launch-ready assets</text>
+</svg>

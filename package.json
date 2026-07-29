@@ -1,12 +1,42 @@
 {
   "name": "releasy",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "description": "AI-powered launch kit generator — turn any GitHub repository into changelogs, social posts, and emails in one click.",
+  "keywords": [
+    "release notes generator",
+    "changelog generator",
+    "AI marketing content",
+    "GitHub release automation",
+    "product launch tool",
+    "social media content generator",
+    "Next.js",
+    "Mistral AI",
+    "TypeScript"
+  ],
+  "homepage": "https://github.com/Saitarun29/releasy#readme",
+  "bugs": {
+    "url": "https://github.com/Saitarun29/releasy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saitarun29/releasy.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Sai Tarun",
+    "url": "https://github.com/Saitarun29"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Saitarun29"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint .",
+    "format": "prettier --write \"**/*.{ts,tsx,js,mjs,json,css,md}\""
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.3.3",

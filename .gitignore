@@ -20,9 +20,16 @@ build
 /build
 dist
 
+# ai agent files (not for public repo)
+AGENTS.md
+CLAUDE.md
+
 # misc
 .DS_Store
 *.pem
+
+# git attributes
+!.gitattributes
 
 # debug
 npm-debug.log*
